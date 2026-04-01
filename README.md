@@ -78,6 +78,6 @@ Majeed Ahmed Siddiqui Data Science Intern
 
 Specializing in Natural Language Processing and Generative AI. Feel free to reach out for collaborations or queries!
 
-🔗 GitHub: @Siddiqui233
+🔗 GitHub: https://github.com/Siddiqui233
 
 📍 Project: Developed as part of a specialized Data Science Internship focused on LLMs.
